@@ -1,5 +1,5 @@
 # Simple temperature conversion program
-# Temperature in Kelvin or Celcius
+# Temperature in Kelvin or celcius
 
 Temp = input("Pick a temperature in (K or C):")
 SelectedTemp = float(input(f"Enter the number for your selected temp:"))

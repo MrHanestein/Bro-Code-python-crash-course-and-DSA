@@ -15,3 +15,4 @@ print(f"Today we visited an {adjective1} zoo")
 print(f"During an exhibition, I saw {noun1}")
 print(f"A {noun2} was very {adjective2} and {verb1} a plant")
 print(f"I was extremely {adjective3}")
+
